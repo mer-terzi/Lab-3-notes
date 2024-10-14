@@ -1,0 +1,15 @@
+https://www.sciencedirect.com/science/article/pii/S0010945220303063
+- 17 hemianopic patients
+	- Divided in 4 groups on basis of the presence of above chance unsconsious + perceptual awareness
+		- & 5th group : px w interruption of the optic radiation
+- Task : movement + orientation
+	- Seen + Unseen
+- the two areas that turned out to be critical for above-chance performance in the discrimination of 
+	- moving versus non-moving visual stimuli were the **Precuneus** and the **Posterior Cingulate Gyrus** 
+	- perceptual awareness reports the crucial areas were **Intracalcarine, Supracalcarine, Cuneus, and the Posterior Cingulate Gyrus.**
+- References to other articles :
+	- . Further studies have shown an important role of the intact hemisphere in blindsight of hemianopic patients. 
+		- For example, Celeghin et al. (2017) in a fMRI study with the Poffenberger paradigm, i.e. a behavioral test of interhemispheric visuomotor transmission (see Marzi, 1999), found that in blindsight patient GY there were compensatory changes resulting in increased connections in posterior regions of the corpus callosum between homologous areas of the parietal cortex.
+		- They conclude that the crucial contribution of the intact hemisphere was possible via a SC- Pulvinar route.
+			- This suggests that a **lesioned hemisphere can respond to visual stimulation only following contribution of the intact hemisphere.**
+			- finally, the presence of an increased cortical thickness of the intact hemisphere in patients who showed above chance performance in one or the other task strongly suggests the occurrence of neuroplastic changes even in adult chronic patients.

@@ -1,0 +1,3 @@
+https://www.sciencedirect.com/science/article/pii/S0304394012001450
+Pleasant pictures versus neutral condition contrast demonstrated significant activation (_p_FDRcorrected <0.05) in bilateral pre-frontal cortex (PFC), anterior and posterior cingulate gyri and temporal lobe.
+Unpleasant pictures relative to neutral condition exhibit significant activation (_p_FDRcorrected <0.05) in amygdala, hippocampus, parahippocampal gyri, temporal lobe, visual cortex, fusiform gyri, PFC and anterior cingulate gyrus.

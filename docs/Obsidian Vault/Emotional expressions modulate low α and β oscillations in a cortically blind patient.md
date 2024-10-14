@@ -1,0 +1,3 @@
+https://www.sciencedirect.com/science/article/pii/S0167876013002845
+Although the patient could not report seeing the stimuli, oscillatory modulations were found in low alpha (7–8 Hz) and low beta power (12–13 Hz) over frontal leads in relation to different facial expressions. Fearful (compared to happy) faces decreased the power of frequencies at 7 and 8 Hz over the right frontal lobes between 100 and 400 ms after cue onset. Additionally, both happy and fearful (vs. neutral) expressions decreased the power of the frequencies at 12 and 13 Hz over the left frontal lobes reaching a maximum between 200 and 250 ms, especially for 13 Hz.
+though its only for unseen as the px has cortical blindness. (TN)

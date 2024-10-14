@@ -1,0 +1,2 @@
+https://www.sciencedirect.com/science/article/pii/S1053811912000778
+► We studied the cortical dynamics induced by unpleasant picture viewing. ► We analyzed ERPs, gamma rhythm modulation, its inter-trial and between-areas phase synchrony. ► We found increased gamma activity during viewing of unpleasant pictures. ► Stronger synchronizations for unpleasant stimuli occurred at low gamma frequencies. ► Specific intervals of gamma are involved in specific aspects of emotion processing.

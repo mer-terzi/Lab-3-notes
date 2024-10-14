@@ -1,0 +1,184 @@
+{
+  "main": {
+    "id": "701545cf9138a5d0",
+    "type": "split",
+    "children": [
+      {
+        "id": "37371ab62048eb9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fa4f68a38b66b0b4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Résultats Lab.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7331f9d7e157a22",
+    "type": "split",
+    "children": [
+      {
+        "id": "ca09abf339433c9a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1db61cf5f300a8f5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c93d04b1802cda2e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9da67f28a745c244",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "2089d3546da13a71",
+    "type": "split",
+    "children": [
+      {
+        "id": "6e0174f76c11c60e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa9b2e9e5a0be6bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Résultats Lab.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "074af2985b97cb7f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Résultats Lab.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "78e705662e2248de",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "51574b93adecc24a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Résultats Lab.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "fa4f68a38b66b0b4",
+  "lastOpenFiles": [
+    "Emotional expressions modulate low α and β oscillations in a cortically blind patient.md",
+    "Résultats Lab.md",
+    "Top–Down Enhancement and Suppression of Activity in Category-selective Extrastriate Cortex from an Act of Reflective Attention.md",
+    "Regional brain responses to pleasant and unpleasant IAPS pictures Different networks.md",
+    "Precuneus–Prefrontal Activity during Awareness of Visual Verbal Stimuli.md",
+    "A review of brain oscillations in perception of faces and emotional pictures.md",
+    "Pasted image 20241006160656.png",
+    "A Rapid Subcortical Amygdala Route for Faces Irrespective of Spatial Frequency and Emotion.md",
+    "Reaction time normative data for the IAPSas a function of display time, gender,and picture content.md",
+    "Unconsciously perceived fear in peripheral vision alerts the limbic system.md",
+    "The dynamics of EEG gamma responses to unpleasant visual stimuli  From local activity to functional connectivity.md",
+    "Emotion, attention, and the ‘negativity bias’, studied through event-related potentials.md",
+    "Electrophysiological correlates of affective blindsight.md",
+    "Decoding the temporal dynamics of affective scene processing.md",
+    "Affective blindsight relies on low spatial frequencies.md",
+    "Pathways for smiling, disgust and fear recognition in blindsight patients.md",
+    "Temporal and spatial neural dynamics in the perception of basic emotions from complex scenes.md",
+    "Bad is Stronger than Good.md",
+    "Lab 3 Tags.md",
+    "Lab 3/Affective blindsight relies on low spatial frequencies.md",
+    "Lab 3/Electrophysiological correlates of affective blindsight.md",
+    "Lab 3/From affective blindsight to emotional consciousness.md",
+    "What cortical areas are responsible for blindsight in hemianopic patients?.md",
+    "Right Hemisphere Dominance for Unconscious Emotionally Salient Stimuli.md",
+    "Untitled",
+    "Tags.md",
+    "Lab 3",
+    "Lab 3.md",
+    "Untitled.canvas",
+    "Untitled 1.canvas",
+    "2024-10-02.md"
+  ]
+}

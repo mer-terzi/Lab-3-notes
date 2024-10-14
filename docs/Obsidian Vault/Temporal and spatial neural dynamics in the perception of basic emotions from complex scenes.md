@@ -1,0 +1,6 @@
+https://academic.oup.com/scan/article-lookup/doi/10.1093/scan/nst164
+Study in neural temporal dynamics associate w perception of emotions in CNS in healthy patients
+
+“emotions are not continually represented in the brain, but significant activations take place during only a few short time segments. This emphasizes the nature of emotions as dynamic processes, an aspect often central to many emotion theories but largely overlooked in current emotion research.” (Costa et al., 2014, p. 1698)
+
+“These subcortical structures undertake a fast but coarse processing of the emotional aspects of the stimulus via magnocellular pathways (Morris et al., 1999; Vuilleumier et al., 2003; Whalen et al., 2004). Such coarse processing is possible in the case of facial expressions and body postures that are recognizable also at low spatial frequencies (Tamietto et al., 2009; Tamietto and de Gelder, 2010; Van den Stock et al., 2011). Yet, if emotions are displayed by complex scenes that involve relevant visual information also in high spatial frequencies, then these structures fail to process the stimulus and to enhance the early activity of cortical visual areas” (Costa et al., 2014, p. 1698)

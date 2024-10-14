@@ -1,0 +1,2 @@
+https://www.sciencedirect.com/science/article/pii/S1053810001905094
+Awareness of visual verbal stimuli differentially activated medial parietal association cortex (precuneus), which is a polymodal sensory cortex, and dorsolateral prefrontal cortex, which is thought to be primarily executive. Our results suggest participation of these higher order perceptual and executive cortical structures in visual verbal awareness.
